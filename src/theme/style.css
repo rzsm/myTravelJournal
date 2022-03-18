@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+  font-style: normal;
+  color: #2B283A;
+}
+
+.red {
+  color:#F55A5A;
+}
+
+.gray-text {
+  color:#918E9B;  
+}
+
+.small-text {
+  font-size: 11px;
+}
+
+.fw-400{
+  font-weight: 400;
+}
+
+
+.fw-700{
+  font-weight: 700;
+}
+
+.lh-150{
+  line-height: 150%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.inline {
+  display: inline-flex;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.mr-15 {
+  margin-right: 15px;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.mb-8 {
+  margin-bottom: 8px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.border-5 {
+  border-radius: 5px;
+}
+

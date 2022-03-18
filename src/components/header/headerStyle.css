@@ -1,0 +1,19 @@
+header {    
+    height: 55px;
+    background: #F55A5A; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.5px;
+    line-height: 54px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+header i {
+    color: #FFFFFF;
+    
+
+}
